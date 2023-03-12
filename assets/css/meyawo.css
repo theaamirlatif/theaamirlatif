@@ -12364,7 +12364,8 @@ pre .code {
   content:"";
   left:0%;
   width:50px;
-  height:2px
+  height:2px;
+  background: #695aa6;
 }
 
 
