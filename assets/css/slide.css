@@ -1,12 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Varela+Round);
 
-html, body { 
+html,
+body {
     margin: 0;
     padding: 0;
-    background: #333 url("https://codepen.io/images/classy_fabric.png"); 
+    background: #333 url("https://codepen.io/images/classy_fabric.png");
 }
 
-ul, li { display: block; }
+ul,
+li {
+    display: block;
+}
 
 #body {
     margin: 0;
@@ -28,7 +32,9 @@ ul, li { display: block; }
     -webkit-touch-callout: none;
 }
 
-#body input { display: none; }
+#body input {
+    display: none;
+}
 
 #img-inner {
     top: 0;
@@ -37,11 +43,11 @@ ul, li { display: block; }
     height: 100%;
     display: block;
     position: absolute;
-    
+
     transform: scale(0);
     -moz-transform: scale(0);
     -webkit-transform: scale(0);
-    
+
     transition: all .7s ease-in-out;
     -moz-transition: all .7s ease-in-out;
     -webkit-transition: all .7s ease-in-out;
@@ -62,9 +68,13 @@ ul, li { display: block; }
         url("http://farm9.staticflickr.com/8195/8098750703_797e102da2_z.jpg"); */
 }
 
-#img-inner:hover ~ label.sb-bignav { opacity: 0.5; }
+#img-inner:hover~label.sb-bignav {
+    opacity: 0.5;
+}
 
-label.sb-bignav:hover { opacity: 1; }
+label.sb-bignav:hover {
+    opacity: 1;
+}
 
 
 .sb-bignav {
@@ -72,15 +82,15 @@ label.sb-bignav:hover { opacity: 1; }
     height: 100%;
     display: none;
     position: absolute;
-    
+
     opacity: 0;
     z-index: 9;
     cursor: pointer;
-    
+
     transition: opacity .2s;
     -moz-transition: opacity .2s;
     -webkit-transition: opacity .2s;
-	
+
     color: white;
     font-size: 156pt;
     text-align: center;
@@ -90,18 +100,22 @@ label.sb-bignav:hover { opacity: 1; }
     text-shadow: 0px 0px 15px rgb(119, 119, 119);
 }
 
-label[title="Next"] { right: 0; }
+label[title="Next"] {
+    right: 0;
+}
 
-input:checked + li > #img-inner {
+input:checked+li>#img-inner {
     opacity: 1;
-        
+
     transform: scale(1);
     -moz-transform: scale(1);
     -webkit-transform: scale(1);
-    
+
     transition: opacity 1s ease-in-out;
     -moz-transition: opacity 1s ease-in-out;
     -webkit-transition: opacity 1s ease-in-out;
 }
 
-input:checked + li > label { display: block; }
+input:checked+li>label {
+    display: block;
+}
