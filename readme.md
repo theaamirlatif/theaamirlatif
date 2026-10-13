@@ -244,7 +244,7 @@ Portfolio website and Dawn Analytical calibrator front-end, later extended into 
 </tr>
 <tr>
 <td><b>State</b></td>
-<td><img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="state" /> &nbsp;![Zustand](https://img.shields.io/badge/Zustand-433e38?style=for-the-badge)</td>
+<td><img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="state" /> &nbsp; <img src="https://img.shields.io/badge/Zustand-433e38?style=for-the-badge" alt="state"  /></td>
 </tr>
 <tr>
 <td><b>Backend & Data</b></td>
@@ -252,7 +252,7 @@ Portfolio website and Dawn Analytical calibrator front-end, later extended into 
 </tr>
 <tr>
 <td><b>Real-time & Payments</b></td>
-<td>![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)</td>
+<td><img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="payments" /> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="payments" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="payments" /></td>
 </tr>
 <tr>
 <td><b>Tooling</b></td>
@@ -315,7 +315,5 @@ Govt. College University, Faisalabad<br/>
 <sub>📍 <b>Lahore, Pakistan</b> &nbsp;·&nbsp; ⏰ <b>Available for full-time roles & freelance projects</b></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0e7490,100:22d3ee&height=110&section=footer" width="100%" alt="" />
-
-<a href="#readme-top">↑ back to top</a>
 
 </div>
