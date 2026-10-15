@@ -4,14 +4,8 @@
 
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0e7490,100:22d3ee&height=60&section=header&text=&fontSize=0" width="100%" alt="" /> -->
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0e7490,100:22d3ee&height=60&section=header&text=&fontSize=0"
-  width="100%"
-  height="40"
-  style="display:block; object-fit:cover; object-position:top;"
-  alt=""
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,55:0e7490,100:22d3ee&height=65&section=header&text=&fontSize=0" width="100%" alt="" />
+
 </div>
 
 <!-- ═══════════════ HERO ═══════════════ -->
